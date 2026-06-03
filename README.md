@@ -1,4 +1,4 @@
-# 🍼 Pregnancy Data Analysis
+# Pregnancy Data Analysis
 
 Statistical analysis of pregnancy data to identify key factors influencing **infant birth weight**, using Multiple Linear Regression and Ordinal Regression in R.
 
